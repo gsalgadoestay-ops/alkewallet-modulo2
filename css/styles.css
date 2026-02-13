@@ -1,0 +1,22 @@
+body {
+  font-family: system-ui, Arial, sans-serif;
+}
+
+.card {
+  border-radius: 16px;
+}
+
+h2 {
+  font-weight: 700;
+}
+body {
+  background-color: #f4f6f9;
+}
+
+.card {
+  border-radius: 14px;
+}
+
+h2 {
+  color: #2d6cdf;
+}
